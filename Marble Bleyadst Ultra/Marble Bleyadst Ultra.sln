@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marble Bleyadst Ultra.CSharp.Plugins", "Marble Bleyadst Ultra.CSharp.Plugins.csproj", "{93C58E28-64EC-3810-1520-1CB164C84D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marble Bleyadst Ultra.CSharp", "Marble Bleyadst Ultra.CSharp.csproj", "{10CA80AD-A260-5E40-01FF-1CAEEF28C867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marble Bleyadst Ultra.CSharp.Editor", "Marble Bleyadst Ultra.CSharp.Editor.csproj", "{A2B3E5CB-05D7-1031-D220-943C5FEB6605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C58E28-64EC-3810-1520-1CB164C84D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C58E28-64EC-3810-1520-1CB164C84D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C58E28-64EC-3810-1520-1CB164C84D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C58E28-64EC-3810-1520-1CB164C84D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CA80AD-A260-5E40-01FF-1CAEEF28C867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CA80AD-A260-5E40-01FF-1CAEEF28C867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CA80AD-A260-5E40-01FF-1CAEEF28C867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CA80AD-A260-5E40-01FF-1CAEEF28C867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B3E5CB-05D7-1031-D220-943C5FEB6605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B3E5CB-05D7-1031-D220-943C5FEB6605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B3E5CB-05D7-1031-D220-943C5FEB6605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B3E5CB-05D7-1031-D220-943C5FEB6605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
